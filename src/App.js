@@ -18,6 +18,18 @@ function App() {
       options: ["A. Chaucer", "B. Shakespeare", "C. Dickens", "D. Orwell"],
       correct: "B",
     },
+        { question: "What is the largest planet in our solar system?", 
+      options: ["A. Earth", "B. Jupiter", "C. Saturn", "D. Mars"], 
+      correct: "B", 
+    },
+    { question: "Who painted the Mona Lisa?", 
+      options: ["A. Van Gogh", "B. Picasso", "C. Da Vinci", "D. Michelangelo"], 
+      correct: "C", 
+    },
+    { question: "What is the chemical symbol for water?",
+      options: ["A. H2O", "B. CO2", "C. O2", "D. NaCl"],
+      correct: "A", 
+    },
   ];
 
   const addPlayer = (name) => {
