@@ -7,7 +7,7 @@ const MainScreen = ({ players, currentQuestionIndex, questions, nextQuestion }) 
   return (
     <div className="main-screen">
       <h1>KBC Game</h1>
-      <QRCodeCanvas value="http://localhost:3000/mobile" />
+      <QRCodeCanvas value="https://ramya-gollu.github.io/kbc_app/mobile" />
       <h2>Players Joined:</h2>
       <ul>
         {players.map((player, index) => (
