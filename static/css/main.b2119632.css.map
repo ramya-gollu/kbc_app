@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b2119632.css","mappings":"AACA,4BACE,YAAa,CACb,iBACF,CAEA,oBACE,eACF","sources":["App.css"],"sourcesContent":["/* src/App.css */\n.main-screen, .mobile-screen {\n  padding: 20px;\n  text-align: center;\n}\n\n.question-container {\n  margin-top: 20px;\n}\n"],"names":[],"sourceRoot":""}

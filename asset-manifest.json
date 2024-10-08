@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kbc_app/static/css/main.b2119632.css",
+    "main.js": "/kbc_app/static/js/main.8027818f.js",
+    "index.html": "/kbc_app/index.html",
+    "main.b2119632.css.map": "/kbc_app/static/css/main.b2119632.css.map",
+    "main.8027818f.js.map": "/kbc_app/static/js/main.8027818f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2119632.css",
+    "static/js/main.8027818f.js"
+  ]
+}
